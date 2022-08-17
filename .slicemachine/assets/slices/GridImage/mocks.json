@@ -1,0 +1,96 @@
+[
+  {
+    "variation": "default",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 900,
+            "height": 500
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2"
+        },
+        "title": "trap",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Dolor in ad laboris ea id reprehenderit sit sunt cupidatat ullamco voluptate nostrud adipisicing. Cillum voluptate culpa labore sint id. Ullamco nostrud eu fugiat dolore aliqua et labore id mollit pariatur amet.",
+            "spans": []
+          }
+        ],
+        "button_title": "example",
+        "button_link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Color",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Excepteur magna aliqua occaecat consequat incididunt do occaecat ut ut. Veniam nostrud labore ea duis enim laborum est magna velit non ea duis consectetur.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "grid_image"
+  },
+  {
+    "variation": "gridWithIcon",
+    "version": "sktwi1xtmkfgx8626",
+    "items": [
+      {
+        "image": {
+          "dimensions": {
+            "width": 150,
+            "height": 40
+          },
+          "alt": null,
+          "copyright": null,
+          "url": "https://images.unsplash.com/photo-1531771686035-25f47595c87a"
+        },
+        "title": "storm",
+        "description": [
+          {
+            "type": "paragraph",
+            "text": "Commodo duis enim ex.",
+            "spans": []
+          }
+        ],
+        "button_title": "coming",
+        "button_link": {
+          "link_type": "Web",
+          "url": "http://twitter.com"
+        }
+      }
+    ],
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Purpose",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "In deserunt quis adipisicing cillum. Elit cupidatat nisi nisi labore reprehenderit consectetur esse velit anim sit veniam id. Ex laboris est exercitation aliqua id aliquip eiusmod nulla ea est do minim nulla.",
+          "spans": []
+        }
+      ]
+    },
+    "slice_type": "grid_image"
+  }
+]

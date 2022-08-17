@@ -1,0 +1,52 @@
+{
+  "_cts": {
+    "page": {},
+    "homepage": {}
+  },
+  "slices": {
+    "TextWithImage": {
+      "default": {
+        "primary": {
+          "background_color": {
+            "content": "#d9e3f0"
+          }
+        }
+      }
+    },
+    "RichText": {
+      "default": {
+        "primary": {
+          "text": {
+            "config": {
+              "patternType": "PARAGRAPH",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    },
+    "GridImage": {
+      "default": {
+        "items": {}
+      },
+      "gridWithIcon": {
+        "items": {}
+      }
+    },
+    "HeroBanner": {
+      "default": {
+        "primary": {
+          "image": {
+            "content": "https://images.unsplash.com/photo-1506619216599-9d16d0903dfd"
+          },
+          "title": {
+            "config": {
+              "patternType": "HEADING",
+              "blocks": 1
+            }
+          }
+        }
+      }
+    }
+  }
+}
