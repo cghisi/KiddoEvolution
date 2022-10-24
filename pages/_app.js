@@ -8,7 +8,6 @@ import "../styles/globals.css";
 export default function App({ Component, pageProps }) {
   return (
     <PrismicProvider
-      linkResolver={linkResolver}
       internalLinkComponent={({ href, ...props }) => (
         <Link href={href}>
           <a {...props} />

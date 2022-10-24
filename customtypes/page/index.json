@@ -19,6 +19,15 @@
           "choices": {
             "text_with_image": {
               "type": "SharedSlice"
+            },
+            "grid_image": {
+              "type": "SharedSlice"
+            },
+            "hero_banner": {
+              "type": "SharedSlice"
+            },
+            "rich_text": {
+              "type": "SharedSlice"
             }
           }
         }

@@ -253,12 +253,12 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "C:\\Users\\christophe.ghisi\\Documents\\dev\\nextjs\\kiddo2\\.slicemachine\\assets\\slices\\GridImage\\default\\preview.png",
+            "path": "/Users/christophe/Documents/dev/KiddoEvolution/.slicemachine/assets/slices/GridImage/default/preview.png",
             "width": 800,
             "height": 734
           },
           "gridWithIcon": {
-            "path": "C:\\Users\\christophe.ghisi\\Documents\\dev\\nextjs\\kiddo2\\.slicemachine\\assets\\slices\\GridImage\\gridWithIcon\\preview.png",
+            "path": "/Users/christophe/Documents/dev/KiddoEvolution/.slicemachine/assets/slices/GridImage/gridWithIcon/preview.png",
             "width": 800,
             "height": 430
           }
@@ -378,7 +378,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "C:\\Users\\christophe.ghisi\\Documents\\dev\\nextjs\\kiddo2\\.slicemachine\\assets\\slices\\HeroBanner\\default\\preview.png",
+            "path": "/Users/christophe/Documents/dev/KiddoEvolution/.slicemachine/assets/slices/HeroBanner/default/preview.png",
             "width": 800,
             "height": 369
           }
@@ -465,7 +465,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "C:\\Users\\christophe.ghisi\\Documents\\dev\\nextjs\\kiddo2\\.slicemachine\\assets\\slices\\RichText\\default\\preview.png",
+            "path": "/Users/christophe/Documents/dev/KiddoEvolution/.slicemachine/assets/slices/RichText/default/preview.png",
             "width": 800,
             "height": 492
           }
@@ -601,7 +601,7 @@
         },
         "screenshotPaths": {
           "default": {
-            "path": "C:\\Users\\christophe.ghisi\\Documents\\dev\\nextjs\\kiddo2\\.slicemachine\\assets\\slices\\TextWithImage\\default\\preview.png",
+            "path": "/Users/christophe/Documents/dev/KiddoEvolution/.slicemachine/assets/slices/TextWithImage/default/preview.png",
             "width": 800,
             "height": 526
           }
